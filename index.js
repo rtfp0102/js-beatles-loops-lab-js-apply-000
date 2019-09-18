@@ -22,7 +22,7 @@ function johnLennonFacts(array){
   return factsExclamation
 }
 
-function iLoveThe Beatles(n) {
+function iLoveTheBeatles(n) {
   var array = []
   
   for (var i = 0; i <= n; i += 1) {
