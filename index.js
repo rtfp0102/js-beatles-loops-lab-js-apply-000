@@ -26,7 +26,8 @@ function iLoveThe Beatles(n) {
   var array = []
   
   for (var i = 0; i <= n; i += 1) {
-    array.push("I love the Beatles")
+    array.push("I love the Beatles!")
   }
   
+  return array
 }
