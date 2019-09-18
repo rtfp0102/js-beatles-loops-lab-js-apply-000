@@ -21,3 +21,7 @@ function johnLennonFacts(array){
   
   return factsExclamation
 }
+
+function iLoveThe Beatles() {
+  
+}
