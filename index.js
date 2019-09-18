@@ -21,4 +21,6 @@ function JohnLennonFacts(){
     var fact = facts[i]
     factsExclamation.push(fact + "!!!")
   }
+  
+  return factsExclamation
 }
