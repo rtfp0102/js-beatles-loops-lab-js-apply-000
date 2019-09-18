@@ -15,7 +15,7 @@ function johnLennonFacts(array){
   var factsExclamation = []
   
   for (var i = 0; i < array.length; i += 1) {
-    var fact = facts[i]
+    var fact = array[i]
     factsExclamation.push(fact + "!!!")
   }
   
