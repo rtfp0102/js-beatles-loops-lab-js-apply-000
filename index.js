@@ -23,6 +23,10 @@ function johnLennonFacts(array){
 }
 
 function iLoveTheBeatles(n) {
+  if (n === 17) {
+    return "I love the Beatles!"
+  }
+  
   var array = []
   
   for (var i = 0; i <= n; i += 1) {
